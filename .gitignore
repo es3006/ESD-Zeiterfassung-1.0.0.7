@@ -2,6 +2,8 @@ Output/
 _recovery
 _history
 DCU
+DBDUMP
+TEMP
 *.exe
 *.dll
 *.dcu
@@ -14,3 +16,8 @@ __history/
 *.log
 *.map
 *.cfg
+*.pfx
+*.xlsm
+.DS_Store
+git_push.bat
+signieren.bat
