@@ -1,0 +1,12 @@
+*.exe
+*.dll
+*.dcu
+*.~*
+__history/
+*.bak
+*.local
+*.identcache
+*.tvsconfig
+*.log
+*.map
+*.cfg
