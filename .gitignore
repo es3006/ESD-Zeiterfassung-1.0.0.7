@@ -1,3 +1,7 @@
+Output/
+_recovery
+_history
+DCU
 *.exe
 *.dll
 *.dcu
