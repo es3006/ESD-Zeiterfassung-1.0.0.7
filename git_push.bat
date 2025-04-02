@@ -3,7 +3,7 @@ echo Git Status:
 git status
 echo ----------------------------
 
-echo Änderungen übernehmen...
+echo Aenderungen uebernehmen...
 git add .
 
 set /p MESSAGE=Bitte Commit-Nachricht eingeben: 

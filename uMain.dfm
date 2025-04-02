@@ -2252,6 +2252,7 @@ object fMain: TfMain
       end>
     SizeGrip = False
     UseSystemFont = False
+    ExplicitTop = 465
   end
   object gpBemerkungen: TGridPanel
     Left = 0

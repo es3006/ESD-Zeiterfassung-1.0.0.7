@@ -12,3 +12,22 @@ Dies ist ein Open Source Delphi-Projekt zur Zeiterfassung mit SQLite und OpenSSL
 ## Lizenz
 
 Veröffentlicht unter der MIT-Lizenz – siehe [LICENSE](./LICENSE).
+
+
+## Screenshots
+
+**Hauptfenster:**
+
+![Main Window](docs/screenshots/main-window.png)
+
+
+
+**Einstellungen:**
+
+![Settings Dialog](docs/screenshots/settings-dialog.png)
+
+
+
+**Legende:**
+
+![Settings Dialog](docs/screenshots/legende-window.png)
