@@ -4,7 +4,7 @@
 set SIGNTOOL="C:\Program Files (x86)\Windows Kits\10\bin\10.0.26100.0\x64\signtool.exe"
 set CERT_DIR="C:\Zertifikate\Certum"
 set PFX="%CERT_DIR%\EnricoSadlowski_2025.pfx"
-set PASSWORD=300675s70931_#
+set PASSWORD=XXXXXXX
 set EXE="Output\Zeiterfassung.exe"
 set TIMEURL=http://timestamp.digicert.com
 
