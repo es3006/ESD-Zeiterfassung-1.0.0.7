@@ -5,7 +5,6 @@ DCU
 DBDUMP
 TEMP
 *.exe
-*.dll
 *.dcu
 *.~*
 __history/
